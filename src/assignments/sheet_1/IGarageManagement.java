@@ -1,4 +1,4 @@
-package assignments;
+package assignments.sheet_1;
 
 /**
  * IGarageManagement provides interface for the parking space allocation in automated car parks.

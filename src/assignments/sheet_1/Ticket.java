@@ -1,4 +1,4 @@
-package assignments;
+package assignments.sheet_1;
 
 /**
  * Ticket class holds information on parking space allocations

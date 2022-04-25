@@ -1,4 +1,4 @@
-package assignments;
+package assignments.sheet_1;
 
 public class GarageManager{
 
