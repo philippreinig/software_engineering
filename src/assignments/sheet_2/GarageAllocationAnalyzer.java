@@ -64,8 +64,6 @@ class ConfigurablePriorityComparator implements Comparator<Car> {
      * Set priorities for comparison
      */
     public void setComparisonPriority(ATTRIBUTE[] comparisonPriority) {
-
-
         this.comparators = new ArrayList<>(Stream.of(comparisonPriority).map(x -> generateComparator(x)).toList());
     }
 

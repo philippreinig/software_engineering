@@ -14,4 +14,5 @@ public class Car {
         this.weight = weight;
         this.value = value;
     }
+    
 }
