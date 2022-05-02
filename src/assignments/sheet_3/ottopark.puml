@@ -62,7 +62,7 @@ abstract class Human{
 
 class GarageStaff{
     + int age
-    + int Name
+    + string name
     + void cleanGarage(OttoGarage garage)
     + void fixTicket(Ticket ticket)
 }
