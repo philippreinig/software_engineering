@@ -1,3 +1,5 @@
+package assignments.sheet_3;
+
 import java.util.Comparator;
 
 public class GarageAllocationAnalyzer {

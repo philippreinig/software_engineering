@@ -1,3 +1,5 @@
+package assignments.sheet_3;
+
 public class GarageManagement {
     private int levels;
     private int positionsPerLevel;
