@@ -3,11 +3,11 @@
  * Sun May 29 17:13:00 GMT 2022
  */
 
-package evo.assignments.sheet_7;
+package assignments.sheet_7;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-import assignments.sheet_7.BinTreeTraversal;
+
 import org.evosuite.runtime.EvoRunner;
 import org.evosuite.runtime.EvoRunnerParameters;
 import org.junit.runner.RunWith;

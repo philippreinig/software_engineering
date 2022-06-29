@@ -4,7 +4,7 @@
  * Sun May 29 17:13:00 GMT 2022
  */
 
-package evo.assignments.sheet_7;
+package assignments.sheet_7;
 
 import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
 import org.junit.BeforeClass;
